@@ -11,6 +11,7 @@
 #container strong {
   font-size: 20px;
   line-height: 26px;
+  color: black;
 }
 
 #container p {
@@ -24,4 +25,8 @@
 
 #container a {
   text-decoration: none;
+}
+
+.ion-content{
+  --background: #fff url('https://wallpapercave.com/wp/wp2848527.jpg') no-repeat center center / cover;
 }
